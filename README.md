@@ -5,7 +5,7 @@ App para registro de atividades esportivas (corrida/ciclismo)
 <li>Javascript</li>
 <li>Html</li>
 <li>Css</li>
-<li>API LeaFlet</li>
+<li>Biblioteca LeaFlet</li>
 
 <h2>Sobre </h2>
 <p>Utilizei praticas de programação orientada o objetos para a construção de toda a lógica da aplicação </p>
